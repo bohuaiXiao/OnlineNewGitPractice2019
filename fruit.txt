@@ -1,2 +1,6 @@
 apple
 grape
+dragon fruit
+kiwi
+watermelon
+Mango
